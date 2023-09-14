@@ -8,6 +8,7 @@
 - [x] 초기셋팅
 - [x] 사이드바 컴포넌트 분리 작업
 - [x] render 추가
+- [x] Editor 컴포넌트 추가
 - [ ] CSS 초기화
 - [ ] main.js 구성
 - [ ] App.js 구성
